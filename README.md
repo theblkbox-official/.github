@@ -7,5 +7,5 @@
 
 <footer>
   <p>Currently maintained by Mykal Sullivan, James Cartwright, and Asher Wise.</p>
-  <p>&#xa92024 TheBlkBox</p>
+  <p>&#xa9 2024 TheBlkBox</p>
 </footer>
